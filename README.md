@@ -7,7 +7,7 @@ Contact me [![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]]
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-    <a href="https://devdocs.io/cpp/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png)" alt="c++" width="40" height="40" /> </a>
+    <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="c++" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://www.apple.com/fr/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> </a>
     <a href="https://html.spec.whatwg.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /> </a>
