@@ -89,5 +89,3 @@
     </div>
 </body>
 </html>username=bilguun111101&show_icons=true&locale=en" alt="bilguun111101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilguun111101&" alt="bilguun111101" /></p>
