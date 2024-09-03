@@ -15,7 +15,7 @@ Contact me [![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]]
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /> </a>
-    <a href="https://developer.android.com/develop" target="_blank"> <img src="https://pngimg.com/d/android_logo_PNG2.png" alt="android" width="40" height="40" /> </a>
+    <a href="https://developer.android.com/develop" target="_blank"> <img src="[https://pngimg.com/d/android_logo_PNG2.png](https://pngimg.com/d/android_logo_PNG2.png)" alt="android" width="40" height="40" /> </a>
     <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html" target="_blank">
         <img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" alt="objc" width="40" height="40" /> </a>
     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/43/f3/d3/43f3d32f-da43-daa3-79e6-c50e81149cfe/Xcode-85-220-0-4-2x.png/1200x630bb.png" alt="xcode" width="40" height="40" /> </a>
