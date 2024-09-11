@@ -5,6 +5,7 @@
 <p align="left">
 <!--     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a> -->
+    <a href="" target="_blank"> <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="android studio" width="40" height="40" /> </a>
     <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="c++" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
