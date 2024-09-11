@@ -1,8 +1,6 @@
 <!-- **mdeboute/mdeboute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bilguun Hi, i'm an Mongolian guy with an interest in programming & mathematics 💻.
-to become an Operations Research Engineer. - I love nature 🎣🌲, sport 💪, guitar 🎸 and reading 📚. - I enjoy learning new stuff and making notes 📄. - I like to travel and I like to have new opportunities 🛫. - I'm an Open Source enthusiast 🤠. ## 📧
-Contact me ## 🔮 Tools, Technologies and Languages
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bilguun
 
 <p align="left">
 <!--     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
