@@ -19,6 +19,7 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40" /> </a>
     <a href="https://www.apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react native" width="40" height="40" /> </a>
+    <a href="" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="node js" width="40" height="40" /> </a>
 </p>
 
 <h1>
