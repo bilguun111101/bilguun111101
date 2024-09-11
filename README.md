@@ -11,9 +11,6 @@ Contact me ## 🔮 Tools, Technologies and Languages
     <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://www.apple.com/fr/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> </a>
-    <a href="https://html.spec.whatwg.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /> </a>
     <a href="https://developer.android.com/develop" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174836.png" alt="android" width="40" height="40" /> </a>
@@ -57,4 +54,4 @@ Contact me ## 🔮 Tools, Technologies and Languages
 
 </div>
 
-# ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp) ----- **Credits**: [GovindSingh9447](https://github.com/GovindSingh9447) **Last Edited on**: 20/04/2024
+# ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp) ----- **Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
