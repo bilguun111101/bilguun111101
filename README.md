@@ -54,4 +54,4 @@ Contact me ## 🔮 Tools, Technologies and Languages
 
 </div>
 
-# ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp) ----- **Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
+# ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
