@@ -5,8 +5,8 @@ to become an Operations Research Engineer. - I love nature 🎣🌲, sport 💪,
 Contact me ## 🔮 Tools, Technologies and Languages
 
 <p align="left">
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+<!--     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a> -->
     <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="c++" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
@@ -33,14 +33,9 @@ Contact me ## 🔮 Tools, Technologies and Languages
 
 <p align="center">
     <br>
-    <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+    <a href="" target="_blank">
         <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
     </a>
-
-    <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
-        <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-    </a>
-
 </p>
 <br/>
 
