@@ -3,7 +3,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bilguun
 
 <p align="left">
-    <a href="https://devdocs.io/c/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/45/2/c-language-logo-png_seeklogo-458623.png" alt="c" width="40" height="40" /> </a>
+    <a href="https://devdocs.io/c/" target="_blank"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi519htEasYkbXhWuDiIcGWazdm_UslLK3-pII0PBQIpZGUJmSnk2jtlf1VuFlCcPrBijLBcQt0GDz5tpMT6PdOlSex6UOaAwslGxcov6SyKvNhZkoOhi1mU1SJj-WJ_7D7hHMIz7IcrWxJCtZkzBM62dggKBjAUunJ07n8v5UecJaXV_JiHZIPwphKi9aV/s320-rw/C-Icon.png" alt="c" width="40" height="40" /> </a>
     <a href="https://devdocs.io" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="c++" width="40" height="40" /> </a>
     <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/objective-c-icon-1024x1024-dj7xxf4d.png" alt="objc" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" /> </a>
