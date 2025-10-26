@@ -8,7 +8,7 @@
     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/43/f3/d3/43f3d32f-da43-daa3-79e6-c50e81149cfe/Xcode-85-220-0-4-2x.png/1200x630bb.png" alt="xcode" width="40" height="40" /> </a>
     <a href="https://www.apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react native" width="40" height="40" /> </a>
-    <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" alt="Rust" width="40" height="40" /> </a>
+    <a href="" target="_blank"> <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Rust" width="40" height="40" /> </a>
 </p>
 
