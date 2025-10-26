@@ -4,11 +4,12 @@
 
 <p align="left">
     <a href="https://devdocs.io/c/" target="_blank"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi519htEasYkbXhWuDiIcGWazdm_UslLK3-pII0PBQIpZGUJmSnk2jtlf1VuFlCcPrBijLBcQt0GDz5tpMT6PdOlSex6UOaAwslGxcov6SyKvNhZkoOhi1mU1SJj-WJ_7D7hHMIz7IcrWxJCtZkzBM62dggKBjAUunJ07n8v5UecJaXV_JiHZIPwphKi9aV/s320-rw/C-Icon.png" alt="c" width="40" height="40" /> </a>
-    <a href="https://devdocs.io" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="c++" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" /> </a>
     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/43/f3/d3/43f3d32f-da43-daa3-79e6-c50e81149cfe/Xcode-85-220-0-4-2x.png/1200x630bb.png" alt="xcode" width="40" height="40" /> </a>
     <a href="https://www.apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react native" width="40" height="40" /> </a>
+    <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" alt="Rust" width="40" height="40" /> </a>
+    <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Rust" width="40" height="40" /> </a>
 </p>
 
 <h1>
